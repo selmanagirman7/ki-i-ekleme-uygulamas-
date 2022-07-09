@@ -1,0 +1,1 @@
+burda c# ile basit bir kişi ekleme silme , günceleme  işlemi yapan asp.net mvc örneği yapılmıştır dilerseniz bir idede çalıştırıp kısaca işleyişine bakabilirsiniz .
